@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Contact Information
+
+[<img alt="Visit my LinkedIn!" src="https://user-images.githubusercontent.com/107321134/184545662-5b200b1d-540f-47fe-8546-697b54abfc0d.png"/>](https://www.linkedin.com/in/gityeechu/)
+
+
+
+
 <!--
 **gychu1/gychu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
