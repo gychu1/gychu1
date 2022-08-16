@@ -6,8 +6,8 @@
 </a>
 <br>
 <br>
-<img src="https://user-images.githubusercontent.com/107321134/184722248-ec5270d7-1dc3-4692-a9ba-e22bf0030a71.png" alt="drawing" width="20"/> <img src ="https://user-images.githubusercontent.com/107321134/184726049-bd931ea8-e5f4-4730-8b48-58845b995c9f.png" width="20" title="Java"/>
-<img src="https://user-images.githubusercontent.com/107321134/184722139-f652aa8c-2c38-4154-bbf3-1159aaf9a08f.png" alt="drawing" width="20"/>  <img src="https://user-images.githubusercontent.com/107321134/184722161-3aa8928f-a127-4670-8080-7869e93865d6.png" alt="drawing" width="20"/> 
+<img src="https://user-images.githubusercontent.com/107321134/184793010-34c9c4e3-23e1-4cbb-9c27-f721f4d114e0.png" alt="drawing" width="20" title="Java"/> <img src ="https://user-images.githubusercontent.com/107321134/184726049-bd931ea8-e5f4-4730-8b48-58845b995c9f.png" width="20" title="Spring"/>
+<img src="https://user-images.githubusercontent.com/107321134/184722139-f652aa8c-2c38-4154-bbf3-1159aaf9a08f.png" alt="drawing" width="20" title="JavaScript"/>  <img src="https://user-images.githubusercontent.com/107321134/184722161-3aa8928f-a127-4670-8080-7869e93865d6.png" alt="drawing" width="20" title="React"/> 
 
 
 
